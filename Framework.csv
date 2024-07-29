@@ -1,7 +1,7 @@
 Item Number,Category,Item Description,Specification,Product Type,Equipment,Count
 1,Cabling,Structured Cabling System,Category 6A cabling, plenum-rated, compliant with TIA/EIA-568-C.2 and ISO/IEC 11801,
-2,Cabling,Fiber Optic Backbone Cabling,Single-mode and multi-mode fiber, LC connectors, OS2 and OM4 standards.,,,
-3,Cabling,Cable Management,Use of Velcro ties instead of zip ties to avoid cable damage. Proper separation of power and data cables to avoid interference.,
+2,Cabling,Fiber Optic Backbone Cabling,Single-mode and multi-mode fiber, LC connectors, OS2 and OM4 standards.,
+3,Cabling,Cable Management,Use of Velcro ties instead of zip ties to avoid cable damage. Proper separation of power and data cables to avoid interference.,,,
 4,Equipment Racks,Network Racks and Cabinets,42U server racks, perforated doors, grounding kits, compliant with EIA-310-D.,
 5,Patch Panels,Modular Patch Panels,24-port and 48-port modular patch panels, Category 6A rated, T568B wiring scheme.,
 6,Pathways,Cable Trays and Pathways,Aluminum ladder-type cable trays, UL classified, compliant with NEC.,
