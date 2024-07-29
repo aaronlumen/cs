@@ -12,3 +12,5 @@
 50_Documentation_and_Maintenance
 .git
 README.md
+
+Please feel free to add standards as necessary.  This repo may become private. 
