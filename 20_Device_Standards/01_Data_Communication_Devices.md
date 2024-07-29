@@ -27,3 +27,4 @@ Data communication devices are essential for the transmission of data within hea
 - **Types**: Include desktops, laptops, tablets, and medical devices.
 - **Security**: Ensure all endpoints have up-to-date antivirus software and encryption.
 - **Maintenance**: Regularly update and patch all endpoints to maintain security and performance.
+
