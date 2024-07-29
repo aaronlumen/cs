@@ -1,4 +1,4 @@
-Item Number,Category,Item Description,Specification,Product Type,Equipment,Count,A,B,C,D
+Item Number,Category,Item Description,Specification,Product Type,Equipment,Count,A,B
 1,Cabling,Structured Cabling System,Category 6A cabling, plenum-rated, compliant with TIA/EIA-568-C.2 and ISO/IEC 11801.,,,
 2,Cabling,Fiber Optic Backbone Cabling,Single-mode and multi-mode fiber, LC connectors, OS2 and OM4 standards.,,,
 3,Cabling,Cable Management,Use of Velcro ties instead of zip ties to avoid cable damage. Proper separation of power and data cables to avoid interference.,,,
