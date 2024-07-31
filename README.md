@@ -55,18 +55,18 @@ Several documents contain fields that need to be filled out by you. These are in
 
 1. Once all required documents are completed, save them in a single directory.
 2. Compress the directory into a ZIP file.
-3. Email the ZIP file to our team at [LV_Architecture@thisdomain.com](mailto:LV_Architecture@thisdomain.com) with the subject line "Completed Division 27 Documentation - [Your Company Name]".
+3. Email the ZIP file to our team at [LV_Architecture@commonspirit.org](mailto:LV_Architecture@commonspirit.org) with the subject line "Completed Division 27 Documentation - [Your Company Name]".
 
 ## Contact Us
 
-If you have any questions or need further assistance, please contact us at [LV_Architecture@thisdomain.com](mailto:LV_Architecture@thisdomain.com). We are here to help and ensure that the process is as smooth as possible.
+If you have any questions or need further assistance, please contact us at [LV_Architecture@commonspirit.org](mailto:LV_Architecture@commonspirit.org). We are here to help and ensure that the process is as smooth as possible.
 
 Thank you for your cooperation and attention to detail.
 
 ---
 
 **Division 27 Project Documentation Team**  
-Email: [LV_Architecture@thisdomain.com](mailto:LV_Architecture@thisdomain.com)
+Email: [LV_Architecture@commonspirit.org](mailto:LV_Architecture@commonspirit.org)
 
 ## Repository Navigation
 
