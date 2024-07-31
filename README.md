@@ -119,5 +119,4 @@ Email: [LV_Architecture@thisdomain.com](mailto:LV_Architecture@thisdomain.com)
 - [03_Maintenance_Schedule.md](./50_Documentation_and_Maintenance/03_Maintenance_Schedule.md) - Schedule for regular maintenance activities (Fields to fill out)
 - [04_Incident_Response_Plan.md](./50_Documentation_and_Maintenance/04_Incident_Response_Plan.md) - Plan for responding to incidents affecting the telecommunications infrastructure (Fields to fill out)
 
-
 ![CommonSpirit Logo](https://www.commonspirit.org/content/dam/shared/en/logos/commonspirit-logo-1.svg)

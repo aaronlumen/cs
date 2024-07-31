@@ -15,6 +15,7 @@ The installation of telecommunications infrastructure in healthcare facilities m
 - **Pulling Tension**: Monitor and control pulling tension to avoid overstressing cables.
 - **Labeling**: Clearly label all cables at both ends and at regular intervals along the length for easy identification.
 - **Drop Locations**: Ensure a minimum of 2 cables are pulled to each drop location as a standard.
+- **Faceplate Labeling**: Label faceplates using the format IDF.room.number_rack.number_patch.panel.number_port.number for easy identification and management.
 
 ## Equipment Installation
 - **Racks and Enclosures**: Securely mount racks and enclosures in accordance with the manufacturer's guidelines and industry standards.
