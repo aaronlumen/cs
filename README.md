@@ -108,7 +108,7 @@ Email: [LV_Architecture@thisdomain.com](mailto:LV_Architecture@thisdomain.com)
 - [06_Cable_Management.md](./30_Product_Standards/06_Cable_Management.md) - Guidelines for cable management
 
 ### 40_Installation_and_Testing
-- [01_Installation_Guidelines.md](./40_Installation_and_Testing/01_Installation_Guidelines.md) - Installation guidelines for telecommunications infrastructure
+- [01_Installation_Guidelines.md](./40_Installation_and_Testing/01_Installation_Guidelines.md) - Installation guidelines for telecommunications infrastructure (Ensure a minimum of 2 cables are pulled to each drop location)
 - [02_Testing_Procedures.md](./40_Installation_and_Testing/02_Testing_Procedures.md) - Testing procedures for installed systems
 - [03_Inspection_Checklist.md](./40_Installation_and_Testing/03_Inspection_Checklist.md) - Inspection checklist for installation and testing (Fields to fill out)
 - [04_Certification_Forms.md](./40_Installation_and_Testing/04_Certification_Forms.md) - Forms for certifying installation and testing (Fields to fill out)
@@ -118,3 +118,6 @@ Email: [LV_Architecture@thisdomain.com](mailto:LV_Architecture@thisdomain.com)
 - [02_Maintenance_Procedures.md](./50_Documentation_and_Maintenance/02_Maintenance_Procedures.md) - Procedures for maintaining the telecommunications infrastructure
 - [03_Maintenance_Schedule.md](./50_Documentation_and_Maintenance/03_Maintenance_Schedule.md) - Schedule for regular maintenance activities (Fields to fill out)
 - [04_Incident_Response_Plan.md](./50_Documentation_and_Maintenance/04_Incident_Response_Plan.md) - Plan for responding to incidents affecting the telecommunications infrastructure (Fields to fill out)
+
+
+![CommonSpirit Logo](https://www.commonspirit.org/content/dam/shared/en/logos/commonspirit-logo-1.svg)

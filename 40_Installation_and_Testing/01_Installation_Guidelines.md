@@ -12,8 +12,9 @@ The installation of telecommunications infrastructure in healthcare facilities m
 - **Pathways**: Use designated pathways such as conduits, cable trays, and J-hooks to support and protect cables.
 - **Separation**: Maintain a minimum separation distance from power cables to prevent electromagnetic interference (EMI).
 - **Bend Radius**: Adhere to the manufacturer's specifications for the minimum bend radius to prevent damage to cables.
-- **Pulling Tension**: Monitor and control pulling tension to avoid overstressing cables during installation.
+- **Pulling Tension**: Monitor and control pulling tension to avoid overstressing cables.
 - **Labeling**: Clearly label all cables at both ends and at regular intervals along the length for easy identification.
+- **Drop Locations**: Ensure a minimum of 2 cables are pulled to each drop location as a standard.
 
 ## Equipment Installation
 - **Racks and Enclosures**: Securely mount racks and enclosures in accordance with the manufacturer's guidelines and industry standards.
@@ -30,3 +31,4 @@ The installation of telecommunications infrastructure in healthcare facilities m
 - **Standards**: Ensure all installations comply with ANSI/TIA-568, ISO/IEC 11801, NFPA 70, and other relevant standards.
 - **Safety Protocols**: Follow all safety protocols, including wearing appropriate personal protective equipment (PPE) and adhering to OSHA regulations.
 - **Quality Assurance**: Conduct regular quality assurance checks throughout the installation process to ensure compliance with guidelines and standards.
+
