@@ -32,6 +32,6 @@ This repository contains the Division 27 specifications for communications infra
 # 40_Installation_and_Testing
 # 50_Documentation_and_Maintenance
 # README.md
-- [Start Here](./Start_Here.md)
+- [Start Here](./Information.md)
 
 Please feel free to add standards as necessary.  This repo may become private. 
