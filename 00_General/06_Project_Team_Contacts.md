@@ -1,5 +1,69 @@
 # Project Team Contacts
 
+## General Information
+This document lists the contact information for all key project team members involved in the telecommunications infrastructure project.
+
+## Project Team Members
+
+### CommonSpirit Health Contacts
+- **Project Manager**
+  - Name: [Name]
+  - Email: [Email]
+  - Phone: [Phone Number]
+  
+- **IT Manager**
+  - Name: [Name]
+  - Email: [Email]
+  - Phone: [Phone Number]
+
+- **NRES PDC IT Manager**
+  - Name: [Name]
+  - Email: [Email]
+  - Phone: [Phone Number]
+
+### Design Builder Contacts
+- **Lead Architect**
+  - Name: [Name]
+  - Email: [Email]
+  - Phone: [Phone Number]
+  
+- **Lead Engineer**
+  - Name: [Name]
+  - Email: [Email]
+  - Phone: [Phone Number]
+
+- **Electrical Engineer**
+  - Name: [Name]
+  - Email: [Email]
+  - Phone: [Phone Number]
+
+### Contractors
+- **General Contractor**
+  - Name: [Name]
+  - Email: [Email]
+  - Phone: [Phone Number]
+  
+- **Low Voltage Cabling Contractor**
+  - Name: [Name]
+  - Email: [Email]
+  - Phone: [Phone Number]
+
+### Additional Contacts
+- **Commissioning Agent**
+  - Name: [Name]
+  - Email: [Email]
+  - Phone: [Phone Number]
+  
+- **Security Consultant**
+  - Name: [Name]
+  - Email: [Email]
+  - Phone: [Phone Number]
+
+## Updates and Changes
+- Ensure all contact information is kept up to date.
+- Report any changes in contact information to the project manager immediately.
+
+
 ## Project Management
 - **Project Manager**: [Name]
   - **Email**: [Email Address]

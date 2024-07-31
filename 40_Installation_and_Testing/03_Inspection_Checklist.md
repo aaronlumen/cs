@@ -1,26 +1,19 @@
 # Inspection Checklist
 
 ## General Requirements
-The inspection checklist is used to ensure that all installation steps are completed correctly and comply with industry standards. Inspections should be conducted during and after installation.
+This checklist is used to ensure that all installation activities comply with the required standards and specifications. It should be completed and submitted at the end of the installation phase.
 
-## Pre-Installation Inspection
-- [ ] Site survey conducted and documented.
-- [ ] Design documents reviewed and approved.
-- [ ] Necessary permits and approvals obtained.
-- [ ] All required materials and equipment on-site and verified.
+## Pre-Installation
+- [ ] Review all design plans and documentation.
+- [ ] Verify site conditions and readiness for installation.
+- [ ] Ensure all necessary permits and approvals have been obtained.
 
-## Cable Installation Inspection
-- [ ] Pathways clear and prepared.
-- [ ] Proper separation from power cables maintained.
-- [ ] Minimum bend radius adhered to.
-- [ ] Pulling tension monitored and controlled.
-- [ ] Cables properly labeled at both ends.
-
-## Equipment Installation Inspection
-- [ ] Racks and enclosures securely mounted.
-- [ ] Equipment properly grounded and bonded.
-- [ ] Power distribution units installed and tested.
-- [ ] Adequate cooling and ventilation ensured.
+## Cabling Installation
+- [ ] Verify that all cable pathways are clear and properly installed.
+- [ ] Check that all cables are properly labeled according to the labeling standards.
+- [ ] Ensure a minimum of 2 cables are pulled to each drop location.
+- [ ] Confirm that all cables meet the required specifications (e.g., Category 6/6A).
+- [ ] Inspect all cable terminations for proper installation.
 
 ## Cable Management Inspection
 - [ ] Horizontal and vertical cable managers installed.
@@ -35,6 +28,23 @@ The inspection checklist is used to ensure that all installation steps are compl
 - [ ] Network connectivity and functionality tests completed.
 - [ ] All test results documented and issues resolved.
 
+## Equipment Installation
+- [ ] Verify the proper installation of all racks and enclosures.
+- [ ] Check grounding and bonding of all equipment.
+- [ ] Ensure all power distribution units (PDUs) are installed and functioning.
+- [ ] Inspect the placement and installation of all network hardware.
+
+## Wireless Installation
+- [ ] Verify the installation of wireless access points.
+- [ ] Ensure all access points are properly labeled.
+- [ ] Confirm the performance and coverage of the wireless network.
+
+## Testing and Commissioning
+- [ ] Conduct continuity and performance testing of all cables.
+- [ ] Test the functionality of all installed equipment.
+- [ ] Verify the integration of all equipment into the network.
+- [ ] Conduct wireless network performance testing.
+
 ## Final Inspection
 - [ ] Comprehensive final report compiled.
 - [ ] System handover conducted with client.
@@ -46,6 +56,21 @@ The inspection checklist is used to ensure that all installation steps are compl
 - [ ] All safety protocols and OSHA regulations followed.
 - [ ] Quality assurance checks performed and documented.
 
+## Post-Installation
+- [ ] Complete all required documentation, including test reports and certifications.
+- [ ] Submit documentation for review and approval by the CommonSpirit Health IT Manager.
+- [ ] Address any identified issues and conduct retesting as necessary.
+
+## Final Approval
+- [ ] Obtain final sign-off from the CommonSpirit Health IT Manager.
+- [ ] Ensure all inspection checklists are completed and submitted.
+
 ## Sign-Off
 - [ ] Final inspection completed and signed off by project manager.
 - [ ] Client sign-off on system acceptance and handover.
+
+## Signatures
+- **Installer**: ____________________ Date: __________
+- **Inspector**: ____________________ Date: __________
+- **IT Manager**: ____________________ Date: __________
+

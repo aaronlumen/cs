@@ -1,7 +1,67 @@
 # Documentation Requirements
 
 ## General Requirements
-Proper documentation is essential for the successful implementation, maintenance, and future upgrades of telecommunications infrastructure. This document outlines the required documentation for all stages of the project.
+Proper documentation is essential for the management and maintenance of the telecommunications infrastructure. This document outlines the documentation requirements for all IT-related systems.
+
+## Required Documentation
+### Design Documentation
+- **Design Plans**: Detailed design plans, including floor plans, elevations, and layout specifics.
+- **Equipment Layouts**: Layouts for all equipment, including racks, cabinets, and cable pathways.
+- **Network Diagrams**: Diagrams showing network topology, including all connections and equipment.
+
+### Installation Documentation
+- **Installation Guidelines**: Detailed guidelines for the installation of all components.
+- **Labeling Standards**: Specifications for labeling all components, including cables, faceplates, and equipment.
+- **As-Built Drawings**: Drawings that reflect the final installation, including any changes made during construction.
+
+### Testing Documentation
+- **Test Plans**: Plans outlining the testing procedures and methodologies.
+- **Test Reports**: Detailed reports of all tests conducted, including results and any corrective actions taken.
+- **Certifications**: Certifications for all cables and equipment, verifying they meet the required standards.
+
+### Maintenance Documentation
+- **Maintenance Schedules**: Schedules for regular maintenance activities, including inspections, testing, and cleaning.
+- **Incident Reports**: Reports detailing any incidents affecting the telecommunications infrastructure, including corrective actions taken.
+- **System Logs**: Logs of all maintenance activities, including dates, personnel involved, and actions taken.
+
+## Documentation Format
+- All documentation should be provided in electronic format, preferably PDF or Excel for spreadsheets.
+- Ensure all documents are clearly labeled and organized for easy reference.
+
+## Updates and Revisions
+- Regularly update all documentation to reflect any changes or upgrades to the system.
+- Maintain a version control system to track changes and ensure all stakeholders have access to the most current documentation.
+
+## Submission and Approval
+- Submit all required documentation to the CommonSpirit Health IT Manager for review and approval.
+- Ensure all documentation meets the required standards and is approved before final project sign-off.
+
+## Compliance and Audits
+- Ensure all documentation complies with relevant standards and guidelines, including ANSI/TIA-568, ISO/IEC 11801, and NFPA 70.
+- Regularly audit documentation to ensure accuracy and completeness.
+- Address any issues identified during audits promptly and update documentation as necessary.
+
+
+## Required Documentation
+### Design Documentation
+- **Design Plans**: Detailed design plans, including floor plans, elevations, and layout specifics.
+- **Equipment Layouts**: Layouts for all equipment, including racks, cabinets, and cable pathways.
+- **Network Diagrams**: Diagrams showing network topology, including all connections and equipment.
+
+### Installation Documentation
+- **Installation Guidelines**: Detailed guidelines for the installation of all components.
+- **Labeling Standards**: Specifications for labeling all components, including cables, faceplates, and equipment.
+- **As-Built Drawings**: Drawings that reflect the final installation, including any changes made during construction.
+
+### Testing Documentation
+- **Test Plans**: Plans outlining the testing procedures and methodologies.
+- **Test Reports**: Detailed reports of all tests conducted, including results and any corrective actions taken.
+- **Certifications**: Certifications for all cables and equipment, verifying they meet the required standards.
+
+### Maintenance Documentation
+- **Maintenance Schedules**: Schedules for regular maintenance activities, including inspections, testing, and cleaning.
+- **Incident Reports**: Reports detailing any incidents affecting the telecommunications infrastructure, including corrective actions taken.
+- **System Logs**: Logs of all maintenance activities, including dates, personnel involved, and actions taken.
 
 ## As-Built Drawings
 - **Purpose**: Provide a detailed and accurate representation of the installed infrastructure.
@@ -38,3 +98,20 @@ Proper documentation is essential for the successful implementation, maintenance
 - **Content**: Include project plans, timelines, meeting minutes, approvals, and sign-offs.
 - **Format**: Provide in a project binder or digital project management tool.
 - **Updates**: Maintain and update documentation throughout the project lifecycle.
+
+## Documentation Format
+- All documentation should be provided in electronic format, preferably PDF or Excel for spreadsheets.
+- Ensure all documents are clearly labeled and organized for easy reference.
+
+## Updates and Revisions
+- Regularly update all documentation to reflect any changes or upgrades to the system.
+- Maintain a version control system to track changes and ensure all stakeholders have access to the most current documentation.
+
+## Submission and Approval
+- Submit all required documentation to the CommonSpirit Health IT Manager for review and approval.
+- Ensure all documentation meets the required standards and is approved before final project sign-off.
+
+## Compliance and Audits
+- Ensure all documentation complies with relevant standards and guidelines, including ANSI/TIA-568, ISO/IEC 11801, and NFPA 70.
+- Regularly audit documentation to ensure accuracy and completeness.
+- Address any issues identified during audits promptly and update documentation as necessary.
