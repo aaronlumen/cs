@@ -1,6 +1,7 @@
-![CommonSpirit Logo](https://www.commonspirit.org/content/dam/shared/en/logos/commonspirit-logo-1.svg)
 
 # Division 27 - Project Documentation
+
+![CommonSpirit Logo](https://www.commonspirit.org/content/dam/shared/en/logos/commonspirit-logo-1.svg)
 
 ## Overview
 This repository contains all the documentation and templates required for the telecommunications infrastructure project in a healthcare facility. Each section includes specific items that need to be filled out to ensure the project is thoroughly planned, executed, and maintained.
@@ -34,6 +35,7 @@ This repository contains all the documentation and templates required for the te
 - [04_Audiovisual_Systems.md](./20_Device_Standards/04_Audiovisual_Systems.md)
 - [05_Intercom_and_Paging_Systems.md](./20_Device_Standards/05_Intercom_and_Paging_Systems.md)
 - [06_Telephony_Systems.md](./20_Device_Standards/06_Telephony_Systems.md)
+- [07_Emergency_Communications.md](./20_Device_Standards/07_Emergency_Communications.md) - New section added.
 
 ### 30_Product_Standards
 - [01_Cabling.md](./30_Product_Standards/01_Cabling.md)
