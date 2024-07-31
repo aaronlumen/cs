@@ -14,6 +14,6 @@ Item Number,Category,Item Description,Specification,Product Type,Equipment,Count
 13,Audiovisual,Conference Room AV Systems,HDMI and DisplayPort inputs, ceiling-mounted speakers, video conferencing integration, control systems.,,
 14,Grounding and Bonding,Grounding and Bonding of Equipment,Ensure all equipment is properly grounded and bonded to avoid electrical hazards. Use UL listed grounding components.,,,,,
 15,Documentation,As-built Documentation,Provide complete as-built documentation, including cable routes, test results, and equipment configurations. Avoid incomplete or inaccurate documentation.,,
-16,Environmental Control,Environmental Control Systems,HVAC integration, temperature and humidity control, monitoring and alerting systems. Ensure proper installation and avoid sensor placement in incorrect locations.,,,
+16,Environmental Control,Environmental Control Systems including HVAC integration as well as temperature and humidity control including monitoring and alerting systems - Ensure proper installation and avoid sensor placement in incorrect locations.,,,,,,
 17,Redundancy,Power and Network Redundancy,Implement redundant power supplies and network paths to ensure high availability. Avoid single points of failure.,,,,,
-18,Security,Cybersecurity Measures,Implement network security measures including firewalls intrusion detection systems and regular security audits. Avoid outdated or non-compliant security practices.,,,,,
+18,Security,Cybersecurity Measures,Implement network security measures including firewalls intrusion detection systems and regular security audits and avoid outdated or non-compliant security practices.,,,,,
