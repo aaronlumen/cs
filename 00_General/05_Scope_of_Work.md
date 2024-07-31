@@ -50,3 +50,40 @@ This document outlines the scope of work for the telecommunications infrastructu
 - **Performance Standards**: Ensure all systems meet the specified performance standards.
 - **Compliance**: Verify that all work complies with relevant standards and regulations.
 - **Approval**: Obtain formal approval from the project manager and stakeholders upon completion of the project.
+# Scope of Work
+
+## General Scope
+This document outlines the scope of work for the telecommunications infrastructure project. The scope includes the installation, configuration, and testing of all IT infrastructure components in accordance with CommonSpirit Health standards.
+
+## Policies and Procedures
+- Engage with CommonSpirit Health for project-specific updates throughout the design phases.
+- Adhere to all policies and procedures outlined by CommonSpirit Health and the National Real Estate Services, Planning, Design, and Construction department.
+
+## Commissioning of IT Spaces
+- Complete all structured cabling, electrical, mechanical, and architectural requirements for early fit-up activities.
+- Include IT milestones in the construction master schedule.
+
+## Drawing and Document Requirements
+- Provide comprehensive drawings and submittals at each design and construction phase, including Schematic Design (SD), Design Development (DD), and Construction Documents (CD).
+- Ensure all space plans, site plans, IT demolition requirements, line drawings, IT design narratives, and symbol legends are provided.
+
+## Room Space Requirements
+- Design Technology Equipment Centers (TEC) and Technology Distribution Rooms (TDR) according to the specified minimum sizes and clearance requirements.
+- Include security measures, flooring, ceiling height, lighting, fire rating, and fire suppression requirements.
+
+## Electrical Requirements
+- Specify power distribution, UPS systems, emergency generators, and power monitoring requirements.
+- Consider adjacency to power transformers and power panels to reduce RFI contamination.
+
+## Mechanical Requirements
+- Provide HVAC systems with redundancy and airflow design to avoid hotspots.
+- Specify temperature, relative humidity, and monitoring requirements.
+
+## Cabling Requirements
+- Install structured cabling for backbone and horizontal connections.
+- Conduct analysis for multi-floor divisions and cabling connections.
+- Install Category 6A cabling for wireless access points and ensure proper separation of backbone and horizontal cabling for non-CommonSpirit Health IT systems.
+
+## Labeling and Documentation Standards
+- Label faceplates using the format IDF.room.number_rack.number_patch.panel.number_port.number.
+- Maintain detailed documentation for IT equipment, network connections, and wireless access points.
