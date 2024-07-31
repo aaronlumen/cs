@@ -1,19 +1,38 @@
-Item Number,Category,Item Description,Specification,Product Type,Equipment,Count,,
-1,Cabling,Structured Cabling System,Category 6A cabling, plenum-rated, compliant with TIA/EIA-568-C.2 and ISO/IEC 11801.,,,
-2,Cabling,Fiber Optic Backbone Cabling,Single-mode and multi-mode fiber, LC connectors, OS2 and OM4 standards,,,
-3,Cabling,Cable Management,Use of Velcro ties - Proper separation of power and data cables to avoid interference.,,,,,
-4,Equipment Racks,Network Racks and Cabinets,42U server racks, perforated doors, grounding kits, compliant with EIA-310-D.,,
-5,Patch Panels,Modular Patch Panels,24-port and 48-port modular patch panels, Category 6A rated, T568B wiring scheme.,,,
-6,Pathways,Cable Trays and Pathways,Aluminum ladder-type cable trays, UL classified, compliant with NEC.,,,
-7,Conduits,Conduits and Raceways,EMT and RMC conduits, UL listed, compliant with NEC Article 344 and 358.,,,
-8,Testing,Network Performance Testing,Fluke DSX-8000 CableAnalyzer, TIA/EIA-568-C.2 compliance, OTDR for fiber testing.,,,
-9,Labeling,Cable and Equipment Labeling,Color-coded labels, ANSI/TIA-606-B compliant, thermal transfer printed.,,,
-10,Wireless,Wireless Access Points,802.11ax (Wi-Fi 6) access points, PoE+, WPA3 security, integrated antenna.,,
-11,Data Centers,Data Center Infrastructure Management (DCIM) Systems,Real-time monitoring, environmental sensors, rack PDU integration, API for third-party systems.,,
-12,VoIP,VoIP Telephony Systems,SIP-based IP phones, PoE+, G.722 wideband audio codec, unified messaging integration.,,
-13,Audiovisual,Conference Room AV Systems,HDMI and DisplayPort inputs, ceiling-mounted speakers, video conferencing integration, control systems.,,
-14,Grounding and Bonding,Grounding and Bonding of Equipment,Ensure all equipment is properly grounded and bonded to avoid electrical hazards. Use UL listed grounding components.,,,,,
-15,Documentation,As-built Documentation,Provide complete as-built documentation, including cable routes, test results, and equipment configurations. Avoid incomplete or inaccurate documentation.,,
-16,Environmental Control,Environmental Control Systems, HVAC integration as well as temperature and humidity control including monitoring and alerting systems - Ensure proper installation and avoid sensor placement in incorrect locations.,,,,,
-17,Redundancy,Power and Network Redundancy,Implement redundant power supplies and network paths to ensure high availability. Avoid single points of failure.,,,,,
-18,Security,Cybersecurity Measures,Implement network security measures including firewalls intrusion detection systems and regular security audits and avoid outdated or non-compliant security practices.,,,,,
+Directory,Document,Description,Fields to Fill Out
+00_General,01_Introduction.md,Introduction to the project,No
+00_General,02_Standards_and_Codes.md,Applicable standards and codes,No
+00_General,03_Definitions.md,Definitions of terms used in the project,No
+00_General,04_Abbreviations.md,Abbreviations used in the project,No
+00_General,05_Scope_of_Work.md,Scope of work for the project,Yes
+00_General,06_Project_Team_Contacts.md,Contact information for the project team,Yes
+00_General,07_Change_Management.md,Change management process and documentation,Yes
+00_General,08_Risk_Management.md,Risk management process and documentation,Yes
+10_Infrastructure,01_Cable_Pathways.md,Guidelines for cable pathways,No
+10_Infrastructure,02_Grounding_and_Bonding.md,Guidelines for grounding and bonding,No
+10_Infrastructure,03_Firestopping.md,Guidelines for firestopping,No
+10_Infrastructure,04_Backbone_Cabling.md,Specifications for backbone cabling,No
+10_Infrastructure,05_Horizontal_Cabling.md,Specifications for horizontal cabling,No
+10_Infrastructure,06_Telecommunications_Rooms.md,Guidelines for telecommunications rooms,No
+10_Infrastructure,07_Equipment_Rooms.md,Guidelines for equipment rooms,No
+10_Infrastructure,08_Wireless_Infrastructure.md,Guidelines for wireless infrastructure,No
+20_Device_Standards,01_Data_Communication_Devices.md,Standards for data communication devices,No
+20_Device_Standards,02_Nurse_Call_Systems.md,Standards for nurse call systems,No
+20_Device_Standards,03_Security_Systems.md,Standards for security systems,No
+20_Device_Standards,04_Audiovisual_Systems.md,Standards for audiovisual systems,No
+20_Device_Standards,05_Intercom_and_Paging_Systems.md,Standards for intercom and paging systems,No
+20_Device_Standards,06_Telephony_Systems.md,Standards for telephony systems,No
+20_Device_Standards,07_Emergency_Communications.md,Standards for emergency communications systems,No
+30_Product_Standards,01_Cabling.md,Specifications for cabling,No
+30_Product_Standards,02_Racks_and_Enclosures.md,Specifications for racks and enclosures,No
+30_Product_Standards,03_Power_Distribution_Units.md,Specifications for power distribution units,No
+30_Product_Standards,04_Patch_Panels.md,Specifications for patch panels,No
+30_Product_Standards,05_Connectors_and_Jacks.md,Specifications for connectors and jacks,No
+30_Product_Standards,06_Cable_Management.md,Guidelines for cable management,No
+40_Installation_and_Testing,01_Installation_Guidelines.md,Installation guidelines for telecommunications infrastructure,No
+40_Installation_and_Testing,02_Testing_Procedures.md,Testing procedures for installed systems,No
+40_Installation_and_Testing,03_Inspection_Checklist.md,Inspection checklist for installation and testing,Yes
+40_Installation_and_Testing,04_Certification_Forms.md,Forms for certifying installation and testing,Yes
+50_Documentation_and_Maintenance,01_Documentation_Requirements.md,Requirements for project documentation,No
+50_Documentation_and_Maintenance,02_Maintenance_Procedures.md,Procedures for maintaining the telecommunications infrastructure,No
+50_Documentation_and_Maintenance,03_Maintenance_Schedule.md,Schedule for regular maintenance activities,Yes
+50_Documentation_and_Maintenance,04_Incident_Response_Plan.md,Plan for responding to incidents affecting the telecommunications infrastructure,Yes
