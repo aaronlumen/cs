@@ -9,8 +9,8 @@ Patch panels are used to terminate and manage network cables in telecommunicatio
 - **Ports**: Typically available in 24-port and 48-port configurations.
 - **Shielding**: Use shielded patch panels to minimize electromagnetic interference (EMI).
 
-### Fiber Optic Patch Panels
-- **Types**: Use for terminating single-mode and multimode fiber optic cables.
+### Fiber Optic Distribution Panels
+- **Types**: Use for terminating single-mode and (very rarely multimode) fiber optic cables.
 - **Ports**: Available in various port configurations, such as LC, SC, and MPO connectors.
 - **Management**: Include splicing trays and cable management features.
 
@@ -23,4 +23,4 @@ Patch panels are used to terminate and manage network cables in telecommunicatio
 ## Compliance and Standards
 - **ANSI/TIA-568**: Ensure patch panels comply with the ANSI/TIA-568 standards for structured cabling.
 - **ISO/IEC 11801**: Follow international standards for structured cabling.
-- **UL Listing**: Use UL-listed patch panels for safety and reliability.
+- **UL Listing**: Use UL-listed patch panels for safety and reliability.  See CommonSpirit Product Standards for mfg specific requirements
