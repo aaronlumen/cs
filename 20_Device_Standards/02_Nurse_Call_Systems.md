@@ -9,12 +9,6 @@ Nurse call systems are critical components in healthcare facilities, allowing pa
 - **Central Console**: The main control unit where nursing staff receive and respond to calls.
 - **Intercom**: Allows two-way communication between patients and nursing staff.
 
-## Wiring Diagram
-The following diagram illustrates the typical wiring setup for a WestComm Nurse Call System.
-
-![WestComm Nurse Call System Wiring Diagram](https://www.researchgate.net/profile/Lukman-Audah/publication/333661751/figure/fig1/AS:767475398500352@1559991802155/General-concept-of-nurse-call-system-2.ppm)
-
-*Note: Replace the URL above with the actual URL of the wiring diagram image you have.*
 
 ## Installation Guidelines
 1. **Placement**: Ensure call stations are within easy reach of patients.
@@ -27,17 +21,16 @@ The following diagram illustrates the typical wiring setup for a WestComm Nurse 
 - **Battery Checks**: Check and replace backup batteries as needed.
 - **Software Updates**: Keep the system software up to date to ensure security and functionality.
 
+## Wiring Diagram
+The following diagram illustrates the typical wiring setup for a WestComm Nurse Call System.
+
+![WestComm Nurse Call System Wiring Diagram](https://www.researchgate.net/profile/Lukman-Audah/publication/333661751/figure/fig1/AS:767475398500352@1559991802155/General-concept-of-nurse-call-system-2.ppm)
+
 ## Compliance
 Ensure that the installation and operation of the nurse call system comply with relevant healthcare regulations and standards, including:
 - ANSI/UL 1069: Standard for Hospital Signaling and Nurse Call Equipment
 - NFPA 99: Health Care Facilities Code
 - ADA: Americans with Disabilities Act
-
-## Conclusion
-A well-installed and maintained nurse call system enhances patient safety and ensures efficient communication between patients and healthcare providers.
-
-For further information, refer to the manufacturer's installation manual and guidelines.
-# Nurse Call Systems
 
 ## General Requirements
 Nurse call systems are critical for patient care, enabling patients to communicate with healthcare staff quickly and effectively. These systems must be reliable, user-friendly, and compliant with healthcare standards.
@@ -64,3 +57,9 @@ Nurse call systems are critical for patient care, enabling patients to communica
 - **Regular Inspections**: Conduct regular inspections and testing to ensure system reliability.
 - **Training**: Provide ongoing training for staff on the use and features of the nurse call system.
 - **Documentation**: Maintain up-to-date documentation of the system design, configuration, and changes.
+
+## Conclusion
+A well-installed and maintained nurse call system enhances patient safety and ensures efficient communication between patients and hea>
+
+For further information, refer to the manufacturer's installation manual and guidelines.
+# Nurse Call Systems

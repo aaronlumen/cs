@@ -1,3 +1,137 @@
+# Division 27 - Project Documentation
+
+![CommonSpirit Health](https://www.commonspirit.org/content/dam/shared/en/logos/commonspirit-logo-1.svg)
+
+## Welcome
+
+Welcome to the Division 27 Project Documentation repository. This repository contains all the documentation and templates required for the telecommunications infrastructure project in a healthcare facility. Below is a guide to help vendors get started, fill out necessary portions, and submit completed documents.
+
+## Getting Started Guide
+
+### Step 1: Download the Repository
+
+1. Navigate to the Division 27 Project Documentation repository.
+2. Click the green "Code" button.
+3. Select "Download ZIP" to download the entire repository to your local machine.
+4. Extract the contents of the ZIP file to a convenient location.
+
+### Step 2: Navigate the Repository
+
+The repository is organized into several directories, each containing specific documents related to the telecommunications infrastructure project. Here's a brief overview:
+
+- **00_General**: General information and guidelines.
+- **10_Infrastructure**: Guidelines for infrastructure components.
+- **20_Device_Standards**: Standards for various devices.
+- **30_Product_Standards**: Specifications for products used in the project.
+- **40_Installation_and_Testing**: Installation guidelines and testing procedures.
+- **50_Documentation_and_Maintenance**: Documentation requirements and maintenance procedures.
+
+Refer to the [Table of Contents](./Table_Of_Contents.md) for a detailed list of documents with clickable links.
+
+### Step 3: Fill Out the Required Fields
+
+Several documents contain fields that need to be filled out by you. These are indicated in the "Fields to Fill Out" column in the [Table of Contents](./Table_Of_Contents.md). Here are the key documents you need to focus on:
+
+- **00_General**
+  - [05_Scope_of_Work.md](./00_General/05_Scope_of_Work.md)
+  - [06_Project_Team_Contacts.md](./00_General/06_Project_Team_Contacts.md)
+  - [07_Change_Management.md](./00_General/07_Change_Management.md)
+  - [08_Risk_Management.md](./00_General/08_Risk_Management.md)
+- **40_Installation_and_Testing**
+  - [03_Inspection_Checklist.md](./40_Installation_and_Testing/03_Inspection_Checklist.md)
+  - [04_Certification_Forms.md](./40_Installation_and_Testing/04_Certification_Forms.md)
+- **50_Documentation_and_Maintenance**
+  - [03_Maintenance_Schedule.md](./50_Documentation_and_Maintenance/03_Maintenance_Schedule.md)
+  - [04_Incident_Response_Plan.md](./50_Documentation_and_Maintenance/04_Incident_Response_Plan.md)
+
+### Step 4: Review and Complete the Documents
+
+1. Open each document that requires input using a text editor or Markdown editor.
+2. Carefully read the instructions and fill out all required fields.
+3. Ensure that all information is accurate and complete.
+4. Save the changes to each document.
+
+### Step 5: Submit the Completed Documents
+
+1. Once all required documents are completed, save them in a single directory.
+2. Compress the directory into a ZIP file.
+3. Email the ZIP file to our team at `LV_Architecture@commonspirit.org` with the subject line "Completed Division 27 Documentation - [Your Company Name]".
+
+## Contact Us
+
+If you have any questions or need further assistance, please contact us at `LV_Architecture@commonspirit.org`. We are here to help and ensure that the process is as smooth as possible.
+
+Thank you for your cooperation and attention to detail.
+
+**Division 27 Project Documentation Team**  
+Email: `LV_Architecture@commonspirit.org`
+
+## Repository Structure
+
+./Documentation_Development.md
+./Information.md
+./Table_Of_Contents.md
+./Framework.csv
+./README.md
+
+./00_General:
+01_Introduction.md
+02_Standards_and_Codes.md
+03_Definitions.md
+04_Abbreviations.md
+05_Scope_of_Work.md
+06_Project_Team_Contacts.md
+07_Change_Management.md
+08_Risk_Management.md
+README.md
+
+./10_Infrastructure:
+01_Cable_Pathways.md
+02_Grounding_and_Bonding.md
+03_Firestopping.md
+04_Backbone_Cabling.md
+05_Horizontal_Cabling.md
+06_Telecommunication_Rooms.md
+07_Equipment_Rooms.md
+08_Wireless_Infrastructure.md
+09_Structured_Cabling.md
+README.md
+
+./20_Device_Standards:
+01_Data_Communication_Devices.md
+02_Nurse_Call_Systems.md
+03_Security_Systems.md
+04_Audiovisual_Systems.md
+05_Intercom_and_Paging_Systems.md
+06_Medical_Alarm_Systems.md
+07_Emergency_Communications.md
+08_Real-Time_Location_Systems.md
+README.md
+
+./30_Product_Standards:
+01_Cabling.md
+02_Racks_and_Enclosures.md
+03_Power_Distribution_Units.md
+04_Patch_Panels.md
+05_Connectors_and_Jacks.md
+06_Cable_Management.md
+README.md
+
+./40_Installation_and_Testing:
+01_Installation_Guidelines.md
+02_Testing_Procedures.md
+03_Inspection_Checklist.md
+04_Certification_Forms.md
+05_Faceplate_Labelling.md
+README.md
+
+./50_Documentation_and_Maintenance:
+01_Documentation_Requirements.md
+02_Maintenance_Schedules.md
+03_Maintenance_Schedule.md
+04_Incident_Response_Plan.md
+README.md
+
 ![CommonSpirit Logo](https://www.commonspirit.org/content/dam/shared/en/logos/commonspirit-logo-1.svg)
 
 # Division 27 - Project Documentation
