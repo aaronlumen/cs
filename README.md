@@ -161,7 +161,7 @@ These are indicated in the "Fields to Fill Out" column in the Table of Contents.
 - [03_Maintenance_Schedule.md](./50_Documentation_and_Maintenance/03_Maintenance_Schedule.md)
 - [04_Incident_Response_Plan.md](./50_Documentation_and_Maintenance/04_Incident_Response_Plan.md)
 
-### Step 4: Review and Complete the Documents
+### Review and Complete the Documents
 
 1. Open each document that requires input using a text editor or Markdown editor.
 2. Carefully read the instructions and fill out all required fields.
@@ -229,5 +229,5 @@ Thank you for your cooperation and attention to detail.
 
 ---
 
-**Division 27 Project Documentation Team**
+**CSH Low Voltage Enterprise Architecture -  Project Documentation Team**
 Email: [LV_Architecture@commonspirit.org](mailto:LV_Architecture@commonspirit.org)
