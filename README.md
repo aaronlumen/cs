@@ -191,17 +191,6 @@ Several documents contain fields that need to be filled out by you. These are in
 2. Compress the directory into a ZIP file.
 3. Email the ZIP file to our team at [LV_Architecture@commonspirit.org](mailto:LV_Architecture@commonspirit.org) with the subject line "Completed Division 27 Documentation - [Your Company Name]".
 
-## Contact Us
-
-If you have any questions or need further assistance, please contact us at [LV_Architecture@commonspirit.org](mailto:LV_Architecture@commonspirit.org). We are here to help and ensure that the process is as smooth as possible.
-
-Thank you for your cooperation and attention to detail.
-
----
-
-**Division 27 Project Documentation Team**  
-Email: [LV_Architecture@commonspirit.org](mailto:LV_Architecture@commonspirit.org)
-
 ## Repository Navigation
 
 ### 00_General
@@ -254,3 +243,14 @@ Email: [LV_Architecture@commonspirit.org](mailto:LV_Architecture@commonspirit.or
 - [04_Incident_Response_Plan.md](./50_Documentation_and_Maintenance/04_Incident_Response_Plan.md) - Plan for responding to incidents affecting the telecommunications infrastructure (Fields to fill out)
 
 ![CommonSpirit Logo](https://www.commonspirit.org/content/dam/shared/en/logos/commonspirit-logo-1.svg)
+
+## Contact Us
+
+If you have any questions or need further assistance, please contact us at [LV_Architecture@commonspirit.org](mailto:LV_Architecture@c>
+
+Thank you for your cooperation and attention to detail.
+
+---
+
+**Division 27 Project Documentation Team**
+Email: [LV_Architecture@commonspirit.org](mailto:LV_Architecture@commonspirit.org)
