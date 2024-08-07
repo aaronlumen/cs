@@ -45,6 +45,7 @@ Several documents contain fields that need to be filled out by you. These are in
 - **40_Installation_and_Testing**
   - [03_Inspection_Checklist.md](./40_Installation_and_Testing/03_Inspection_Checklist.md)
   - [04_Certification_Forms.md](./40_Installation_and_Testing/04_Certification_Forms.md)
+  - [06_BTU_Cooling_Calculations.md](./40_Installation_and_Testing/06_BTU_Cooling_Calculations.md)
 - **50_Documentation_and_Maintenance**
   - [03_Maintenance_Schedule.md](./50_Documentation_and_Maintenance/03_Maintenance_Schedule.md)
   - [04_Incident_Response_Plan.md](./50_Documentation_and_Maintenance/04_Incident_Response_Plan.md)
